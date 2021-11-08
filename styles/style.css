@@ -315,8 +315,8 @@
 .footer__column_content_copyright {
   display: flex;
   flex-flow: column wrap;
-  flex-basis: 711px; 
-  align-items: flex-start; 
+  flex-basis: 711px;
+  align-items: flex-start;
   justify-content: space-between;
   margin: 0;
 }
