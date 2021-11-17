@@ -1,0 +1,6 @@
+.footer__column-links {
+  display: flex;
+  flex-flow: column wrap;
+  margin-top: 20px;
+  text-decoration: none;
+}

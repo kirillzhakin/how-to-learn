@@ -1,0 +1,8 @@
+.cards__image {
+  box-sizing: border-box;
+  border-radius: 50%;
+  height: 160px;
+  width: 160px;
+  background-size: contain;
+  margin: 60px 40px 43px 40px;
+}
