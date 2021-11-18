@@ -2,6 +2,8 @@
   display: flex;
   width: 515px;
   height: 316px;
+  margin: 0;
+  border: none;
 }
 
 .video__iframe:first-child {
