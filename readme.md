@@ -3,6 +3,8 @@
 Научиться учиться - это типовой одностраничный сайт с использованием знаний по анимации и трансформации, работате с формами, видео- и аудио-файлами.
 Моя первая работа.
 
+Ссылка на сайт: https://how-to-learn-neon.vercel.app/
+
 ### Технологии
 ![HTML](https://img.shields.io/badge/HTML-172F45?style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/CSS-172F45?style=for-the-badge&logo=css3)
